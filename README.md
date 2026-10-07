@@ -1,4 +1,4 @@
-# FP&A Executive Planning & Performance Model
+# Financial Planning & Executive Planning & Performance Model
 This project is a corporate-style FP&A workflow built end-to-end on synthetic data — from raw budget-vs-actual records through a validated data pipeline, monthly P&L, department variance analysis, driver-based forecasting, scenario planning, headcount and cash modeling, an illustrative DCF, and an executive PDF report.
 The model uses a fully synthetic dataset so it can be shared publicly without exposing confidential company information.
 
@@ -97,4 +97,6 @@ This project demonstrates more than spreadsheet mechanics. It shows the full FP&
 ## About this project
 
 Built as a portfolio piece to demonstrate an end-to-end FP&A workflow — from raw data through executive decision support — the way a real finance function would run it monthly.
+
+# Author : Nithin Kumar
 
